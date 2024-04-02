@@ -1,2 +1,3 @@
 # sortings
-simple implementations of different sortings
+- simple implementations of different sortings
+- task solutions
