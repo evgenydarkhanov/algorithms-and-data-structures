@@ -2,3 +2,4 @@
 1. binary search
 2. arrays, linked lists
 3. sortings
+4. trees
