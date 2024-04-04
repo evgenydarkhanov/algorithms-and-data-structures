@@ -3,3 +3,4 @@
 2. arrays, linked lists
 3. sortings
 4. trees
+5. hashing
