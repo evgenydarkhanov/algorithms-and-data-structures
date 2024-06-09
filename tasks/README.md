@@ -11,7 +11,7 @@ solutions to various algorithmic tasks and problems using Python
 | 06. | sum equal k | найти в отсортированном массиве два элемента, сумма которых == k |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/58a1d60b62984656bf7cb80dd811774c49433210/tasks/06_sum_equal_k.py) |
 | 07. | has cycle | найти зацикливание в односвязном списке |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/58a1d60b62984656bf7cb80dd811774c49433210/tasks/07_has_cycle.py) |
 | 08. | mean window | вернуть список, элементами которого являются средние значения по окну |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/58a1d60b62984656bf7cb80dd811774c49433210/tasks/08_mean_window.py) |
-| 09. | gnome sort | гномья сортировка |  | []() |
-| 10. | bubble sort | сортировка пузырьком |  | []() |
-| 11. | insertion sort | сортировка вставками |  | []() |
-| 12. | merge sort | сортировка слиянием |  | []() |
+| 09. | gnome sort | гномья сортировка |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34599051b82f043f187c93ae43c6d5bf2545d6ea/tasks/09_gnome_sort.py) |
+| 10. | bubble sort | сортировка пузырьком |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34599051b82f043f187c93ae43c6d5bf2545d6ea/tasks/10_bubble_sort.py) |
+| 11. | insertion sort | сортировка вставками |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34599051b82f043f187c93ae43c6d5bf2545d6ea/tasks/11_insertion_sort.py) |
+| 12. | merge sort | сортировка слиянием |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34599051b82f043f187c93ae43c6d5bf2545d6ea/tasks/12_merge_sort.py) |
