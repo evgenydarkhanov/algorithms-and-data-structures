@@ -15,3 +15,5 @@ solutions to various algorithmic tasks and problems using Python
 | 10. | bubble sort | сортировка пузырьком |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34599051b82f043f187c93ae43c6d5bf2545d6ea/tasks/10_bubble_sort.py) |
 | 11. | insertion sort | сортировка вставками |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34599051b82f043f187c93ae43c6d5bf2545d6ea/tasks/11_insertion_sort.py) |
 | 12. | merge sort | сортировка слиянием |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34599051b82f043f187c93ae43c6d5bf2545d6ea/tasks/12_merge_sort.py) |
+| 13. | timsort | тимсорт |  | []() |
+| 14. | quicksort | быстрая сортировка |  | []() |
