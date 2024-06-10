@@ -17,7 +17,7 @@ solutions to various algorithmic tasks and problems using Python
 | 12. | merge sort | сортировка слиянием |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34599051b82f043f187c93ae43c6d5bf2545d6ea/tasks/12_merge_sort.py) |
 | 13. | timsort | тимсорт |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/7767a40d33e33dbccae5d73b5768e9997230005d/tasks/13_timsort.py) |
 | 14. | quicksort | быстрая сортировка |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/7767a40d33e33dbccae5d73b5768e9997230005d/tasks/14_quicksort.py) |
-| 15. | counting sort | сортировка подсчётом |  | []() |
-| 16. | counting sort class | сортировка подсчётом структур |  | []() |
-| 17. | counting sort neg | сортировка подсчётом структур, значения могут быть меньше нуля |  | []() |
-| 18. | radix sort |  |  | []() |
+| 15. | counting sort | сортировка подсчётом |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/982ad1e360af060d4ea88b27e04d179de7d5adeb/tasks/15_counting_sort.py) |
+| 16. | counting sort class | сортировка подсчётом структур |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/982ad1e360af060d4ea88b27e04d179de7d5adeb/tasks/16_counting_sort_class.py) |
+| 17. | counting sort neg | сортировка подсчётом структур, значения могут быть меньше нуля |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/982ad1e360af060d4ea88b27e04d179de7d5adeb/tasks/17_counting_sort_neg.py) |
+| 18. | radix sort | сортировка поразрядная |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/982ad1e360af060d4ea88b27e04d179de7d5adeb/tasks/18_radix_sort.py) |
