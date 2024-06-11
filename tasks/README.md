@@ -21,3 +21,13 @@ solutions to various algorithmic tasks and problems using Python
 | 16. | counting sort class | сортировка подсчётом структур |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/982ad1e360af060d4ea88b27e04d179de7d5adeb/tasks/16_counting_sort_class.py) |
 | 17. | counting sort neg | сортировка подсчётом структур, значения могут быть меньше нуля |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/982ad1e360af060d4ea88b27e04d179de7d5adeb/tasks/17_counting_sort_neg.py) |
 | 18. | radix sort | сортировка поразрядная |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/982ad1e360af060d4ea88b27e04d179de7d5adeb/tasks/18_radix_sort.py) |
+| 19. | bst search | поиск в бинарном дереве |  | []() |
+| 20. | bfs search | поиск в бинарном дереве обходом в ширину |  | []() |
+| 21. | dfs search pre order | поиск в бинарном дереве обходом в глубину pre-order |  | []() |
+| 22. | dfs search stack | поиск в бинарном дереве обходом в глубину со стеком |  | []() |
+| 23. | invert tree | инвертировать бинарное дерево |  | []() |
+| 24. | find max level | вернуть список максимальных элементов с каждого уровня дерева |  | []() |
+| 25. | find minimax | найти минимальный и максимальный элементы в BST |  | []() |
+| 26. | dfs in order | обход в глубину in-order бинарного дерева нерекурсивно |  | []() |
+| 27. | is bst | проверка является ли дерево BST |  | []() |
+| 28. | build bst | построить BST из отсортированного массива |  | []() |
