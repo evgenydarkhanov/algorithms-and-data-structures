@@ -38,16 +38,16 @@ solutions to various algorithmic tasks and problems using Python
 | 33. | naive suffix tree | построить суффиксное дерево наивным алгоритмом |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/33_naive_suffix_tree.py) |
 | 34. | is rb tree | проверить является ли бинарное дерево красно-чёрным |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/34_is_rb_tree.py) |
 | 35. | trie | простая реализация префиксного дерева |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/35_trie.py) |
-| 36. | naive substring search | поиск подстроки в строке наивным алгоритмом |  | []() |
-| 37. | less naive substring search | то же самое, но без счётчика |  | []() |
-| 38. | naive prefix function | наивный алгоритм подсчёта префикс-функции |  | []() |
-| 39. | prefix function | линейный алгоритм подсчёта префикс-функции |  | []() |
-| 40. | knuth morris pratt | поиск подстроки в строке алгоритмом Кнута-Морриса-Пратта |  | []() |
-| 41. | naive z function | наивный алгоритм подсчёта z-функции |  | []() |
-| 42. | less naive z function | то же самое, но без счётчика |  | []() |
-| 43. | z function | линейный алгоритм подсчёта z-функции |  | []() |
-| 44. | z algorithm | поиск подстроки в строке z-алгоритмом |  | []() |
-| 45. | naive rotate string | проверить является строка goal циклическим сдвигом text |  | []() |
-| 46. | rotate string | то же самое, но менее наивно |  | []() |
-| 47. | boyer moore horspool | поиск подстроки в строке алгоритмом Бойера-Мура-Хорспула |  | []() |
-| 48. | boyer moore horspool | то же самое, но используем хеш-таблицу |  | []() |
+| 36. | naive substring search | поиск подстроки в строке наивным алгоритмом |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/36_naive_substring_search.py) |
+| 37. | less naive substring search | то же самое, но без счётчика |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/37_less_naive_substring_search.py) |
+| 38. | naive prefix function | наивный алгоритм подсчёта префикс-функции |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/38_naive_prefix_function.py) |
+| 39. | prefix function | линейный алгоритм подсчёта префикс-функции |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/39_prefix_function.py) |
+| 40. | knuth morris pratt | поиск подстроки в строке алгоритмом Кнута-Морриса-Пратта |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/40_knuth_morris_pratt.py) |
+| 41. | naive z function | наивный алгоритм подсчёта z-функции |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/41_naive_z_function.py) |
+| 42. | less naive z function | то же самое, но без счётчика |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/42_less_naive_z_function.py) |
+| 43. | z function | линейный алгоритм подсчёта z-функции |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/43_z_function.py) |
+| 44. | z algorithm | поиск подстроки в строке z-алгоритмом |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/44_z_algorithm.py) |
+| 45. | naive rotate string | проверить является строка goal циклическим сдвигом text |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/45_naive_rotate_string.py) |
+| 46. | rotate string | то же самое, но менее наивно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/46_rotate_string.py) |
+| 47. | boyer moore horspool | поиск подстроки в строке алгоритмом Бойера-Мура-Хорспула |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/47_boyer_moore_horspool.py) |
+| 48. | boyer moore horspool | то же самое, но используем хеш-таблицу |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/48_boyer_moore_horspool.py) |
