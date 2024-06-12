@@ -31,10 +31,10 @@ solutions to various algorithmic tasks and problems using Python
 | 26. | dfs in order | обход в глубину in-order бинарного дерева нерекурсивно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/8c5a70fce272f6eafb1e0354aeb09f74f4907f95/tasks/26_dfs_in_order.py) |
 | 27. | is bst | проверка является ли дерево BST |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/8c5a70fce272f6eafb1e0354aeb09f74f4907f95/tasks/27_is_bst.py) |
 | 28. | build bst | построить BST из отсортированного массива |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/8c5a70fce272f6eafb1e0354aeb09f74f4907f95/tasks/28_build_bst.py) |
-| 29. | remove node linked list | удалить элемент односвязного списка |  | []() |
-| 30. | lru cache | простая реализация LRU кеша |  | []() |
-| 31. | nlarge | найти k-ый наибольший элемент последовательности |  | []() |
-| 32. | suffixes | вернуть все суффиксы подстроки |  | []() |
-| 33. | naive suffix tree | построить суффиксное дерево наивным алгоритмом |  | []() |
-| 34. | is rb tree | проверить является ли бинарное дерево красно-чёрным |  | []() |
-| 35. | trie | простая реализация префиксного дерева |  | []() |
+| 29. | remove node linked list | удалить элемент односвязного списка |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/29_remove_node_linked_list.py) |
+| 30. | lru cache | простая реализация LRU кеша |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/30_lru_cache.py) |
+| 31. | nlarge | найти k-ый наибольший элемент последовательности |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/31_nlarge.py) |
+| 32. | suffixes | вернуть все суффиксы подстроки |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/32_suffixes.py) |
+| 33. | naive suffix tree | построить суффиксное дерево наивным алгоритмом |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/33_naive_suffix_tree.py) |
+| 34. | is rb tree | проверить является ли бинарное дерево красно-чёрным |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/34_is_rb_tree.py) |
+| 35. | trie | простая реализация префиксного дерева |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/35_trie.py) |
