@@ -51,3 +51,16 @@ solutions to various algorithmic tasks and problems using Python
 | 46. | rotate string | то же самое, но менее наивно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/46_rotate_string.py) |
 | 47. | boyer moore horspool | поиск подстроки в строке алгоритмом Бойера-Мура-Хорспула |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/47_boyer_moore_horspool.py) |
 | 48. | boyer moore horspool | то же самое, но используем хеш-таблицу |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/48_boyer_moore_horspool.py) |
+| 49. | rabin karp | поиск подстроки в строке алгоритмом Рабина-Карпа |  | []() |
+| 50. | bfs graph | обход графа в ширину |  | []() |
+| 51. | dfs graph stack | обход графа в глубину со стеком |  | []() |
+| 52. | dfs graph recursive | обход графа в глубину рекурсивно |  | []() |
+| 53. | dfs paths | поиск всех возможных путей между двумя вершинами |  | []() |
+| 54. | bfs paths | поиск всех возможных путей между двумя вершинами |  | []() |
+| 55. | bfs shortest path | BFS возвращает первым самый короткий путь? |  | []() |
+| 56. | min dist graph | найти кратчайший путь x --> y  |  | []() |
+| 57. | heapsort | пирамидальная сортировка |  | []() |
+| 58. | dijkstra | алгоритм Дейкстры с очередью с приоритетом |  | []() |
+| 59. | floydwarshall | алгоритм Флойда-Уоршелла |  | []() |
+| 60. | naive fibonacci | числа Фибоначчи наивно |  | []() |
+| 61. | memo fibonacci | числа Фибоначчи с мемоизацией |  | []() |
