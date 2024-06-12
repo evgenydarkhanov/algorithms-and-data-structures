@@ -63,4 +63,4 @@ solutions to various algorithmic tasks and problems using Python
 | 58. | dijkstra | алгоритм Дейкстры с очередью с приоритетом |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/58_dijkstra.py) |
 | 59. | floydwarshall | алгоритм Флойда-Уоршелла |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/59_floydwarshall.py) |
 | 60. | naive fibonacci | числа Фибоначчи наивно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/60_naive_fibonacci.py) |
-| 61. | memo fibonacci | числа Фибоначчи с мемоизацией |  | [](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/61_memo_fibonacci.py) |
+| 61. | memo fibonacci | числа Фибоначчи с мемоизацией |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/61_memo_fibonacci.py) |
