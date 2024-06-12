@@ -38,3 +38,16 @@ solutions to various algorithmic tasks and problems using Python
 | 33. | naive suffix tree | построить суффиксное дерево наивным алгоритмом |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/33_naive_suffix_tree.py) |
 | 34. | is rb tree | проверить является ли бинарное дерево красно-чёрным |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/34_is_rb_tree.py) |
 | 35. | trie | простая реализация префиксного дерева |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/923200a7f285fa37017487abc2dd5fd42b4535af/tasks/35_trie.py) |
+| 36. | naive substring search | поиск подстроки в строке наивным алгоритмом |  | []() |
+| 37. | less naive substring search | то же самое, но без счётчика |  | []() |
+| 38. | naive prefix function | наивный алгоритм подсчёта префикс-функции |  | []() |
+| 39. | prefix function | линейный алгоритм подсчёта префикс-функции |  | []() |
+| 40. | knuth morris pratt | поиск подстроки в строке алгоритмом Кнута-Морриса-Пратта |  | []() |
+| 41. | naive z function | наивный алгоритм подсчёта z-функции |  | []() |
+| 42. | less naive z function | то же самое, но без счётчика |  | []() |
+| 43. | z function | линейный алгоритм подсчёта z-функции |  | []() |
+| 44. | z algorithm | поиск подстроки в строке z-алгоритмом |  | []() |
+| 45. | naive rotate string | проверить является строка goal циклическим сдвигом text |  | []() |
+| 46. | rotate string | то же самое, но менее наивно |  | []() |
+| 47. | boyer moore horspool | поиск подстроки в строке алгоритмом Бойера-Мура-Хорспула |  | []() |
+| 48. | boyer moore horspool | то же самое, но используем хеш-таблицу |  | []() |
