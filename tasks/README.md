@@ -51,16 +51,16 @@ solutions to various algorithmic tasks and problems using Python
 | 46. | rotate string | то же самое, но менее наивно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/46_rotate_string.py) |
 | 47. | boyer moore horspool | поиск подстроки в строке алгоритмом Бойера-Мура-Хорспула |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/47_boyer_moore_horspool.py) |
 | 48. | boyer moore horspool | то же самое, но используем хеш-таблицу |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/f6f767030224a1d6f9185e6fa2c5a8e35acad0db/tasks/48_boyer_moore_horspool.py) |
-| 49. | rabin karp | поиск подстроки в строке алгоритмом Рабина-Карпа |  | []() |
-| 50. | bfs graph | обход графа в ширину |  | []() |
-| 51. | dfs graph stack | обход графа в глубину со стеком |  | []() |
-| 52. | dfs graph recursive | обход графа в глубину рекурсивно |  | []() |
-| 53. | dfs paths | поиск всех возможных путей между двумя вершинами |  | []() |
-| 54. | bfs paths | поиск всех возможных путей между двумя вершинами |  | []() |
-| 55. | bfs shortest path | BFS возвращает первым самый короткий путь? |  | []() |
-| 56. | min dist graph | найти кратчайший путь x --> y  |  | []() |
-| 57. | heapsort | пирамидальная сортировка |  | []() |
-| 58. | dijkstra | алгоритм Дейкстры с очередью с приоритетом |  | []() |
-| 59. | floydwarshall | алгоритм Флойда-Уоршелла |  | []() |
-| 60. | naive fibonacci | числа Фибоначчи наивно |  | []() |
-| 61. | memo fibonacci | числа Фибоначчи с мемоизацией |  | []() |
+| 49. | rabin karp | поиск подстроки в строке алгоритмом Рабина-Карпа |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/49_rabin_karp.py) |
+| 50. | bfs graph | обход графа в ширину |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/50_bfs_graph.py) |
+| 51. | dfs graph stack | обход графа в глубину со стеком |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/51_dfs_graph_stack.py) |
+| 52. | dfs graph recursive | обход графа в глубину рекурсивно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/52_dfs_graph_recursive.py) |
+| 53. | dfs paths | поиск всех возможных путей между двумя вершинами |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/53_dfs_paths.py) |
+| 54. | bfs paths | поиск всех возможных путей между двумя вершинами |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/54_bfs_paths.py) |
+| 55. | bfs shortest path | BFS возвращает первым самый короткий путь? |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/55_bfs_shortest_path.py) |
+| 56. | min dist graph | найти кратчайший путь x --> y  |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/56_min_dist_graph.py) |
+| 57. | heapsort | пирамидальная сортировка |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/57_heapsort.py) |
+| 58. | dijkstra | алгоритм Дейкстры с очередью с приоритетом |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/58_dijkstra.py) |
+| 59. | floydwarshall | алгоритм Флойда-Уоршелла |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/59_floydwarshall.py) |
+| 60. | naive fibonacci | числа Фибоначчи наивно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/60_naive_fibonacci.py) |
+| 61. | memo fibonacci | числа Фибоначчи с мемоизацией |  | [](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/61_memo_fibonacci.py) |
