@@ -75,7 +75,7 @@ solutions to various algorithmic tasks and problems using Python
 | 70. | more than half | найти число, количество появлений которого занимает больше половины массива |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/70_more_than_half.py) |
 | 71. | water area | найти наибольшую площадь воды между столбами |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/71_water_area.py) |
 | 72. | product array | вернуть массив чисел, из произведений всех кроме данного |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/72_product_array.py) |
-| 73. | sum equal k | в отличие от `06_sum_equal_k.py` массив не отсортирован |  | [variant]() |
-| 74. | bst to sll | вернуть односвязный список из бинарного дерева поиска |  | [variant]() |
-| 75. | naive roman to arabic | конвертировать римское число в арабское |  | [variant]() |
-| 76. | roman to arabic | less naive |  | [variant]() |
+| 73. | sum equal k | в отличие от `06_sum_equal_k.py` массив не отсортирован |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/b5d2420ec817efba16c42e7690cbc793dd24e004/tasks/73_sum_equal_k.py) |
+| 74. | bst to sll | вернуть односвязный список из бинарного дерева поиска |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/b5d2420ec817efba16c42e7690cbc793dd24e004/tasks/74_bst_to_sll.py) |
+| 75. | naive roman to arabic | конвертировать римское число в арабское |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/b5d2420ec817efba16c42e7690cbc793dd24e004/tasks/75_naive_roman_to_arabic.py) |
+| 76. | roman to arabic | less naive |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/b5d2420ec817efba16c42e7690cbc793dd24e004/tasks/76_roman_to_arabic.py) |
