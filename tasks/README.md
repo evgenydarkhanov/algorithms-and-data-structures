@@ -70,3 +70,8 @@ solutions to various algorithmic tasks and problems using Python
 | 65. | longest common substring | наибольшая общая подстрока |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/aeb854b89c72af33b7a4d1224e2305fd2f860a56/tasks/65_longest_common_substring.py) |
 | 66. | house robber | грабитель! нельзя грабить соседние дома | [leetcode](https://leetcode.com/problems/house-robber/description/) | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/aeb854b89c72af33b7a4d1224e2305fd2f860a56/tasks/66_house_robber.py) |
 | 67. | iter fibonacci | числа Фибоначчи итеративно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/aeb854b89c72af33b7a4d1224e2305fd2f860a56/tasks/67_iter_fibonacci.py) |
+| 68. | ladder | найти количество возможных путей до верха лестницы |  | []() |
+| 69. | jumps | возможно ли допрыгать до конца массива? |  | []() |
+| 70. | more than half | найти число, количество появлений которого занимает больше половины массива |  | []() |
+| 71. | water area | найти наибольшую площадь воды между столбами |  | []() |
+| 72. | product array | вернуть массив чисел, из произведений всех кроме данного |  | []() |
