@@ -75,3 +75,7 @@ solutions to various algorithmic tasks and problems using Python
 | 70. | more than half | найти число, количество появлений которого занимает больше половины массива |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/70_more_than_half.py) |
 | 71. | water area | найти наибольшую площадь воды между столбами |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/71_water_area.py) |
 | 72. | product array | вернуть массив чисел, из произведений всех кроме данного |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/72_product_array.py) |
+| 73. | sum equal k | в отличие от `06_sum_equal_k.py` массив не отсортирован |  | [variant]() |
+| 74. | bst to sll | вернуть односвязный список из бинарного дерева поиска |  | [variant]() |
+| 75. | naive roman to arabic | конвертировать римское число в арабское |  | [variant]() |
+| 76. | roman to arabic | less naive |  | [variant]() |
