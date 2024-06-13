@@ -64,3 +64,9 @@ solutions to various algorithmic tasks and problems using Python
 | 59. | floydwarshall | алгоритм Флойда-Уоршелла |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/59_floydwarshall.py) |
 | 60. | naive fibonacci | числа Фибоначчи наивно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/60_naive_fibonacci.py) |
 | 61. | memo fibonacci | числа Фибоначчи с мемоизацией |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/34316811a988d6b0bce16adbca83b6642188f875/tasks/61_memo_fibonacci.py) |
+| 62. | naive levenshtein | наивно посчитать расстояние Левенштейна |  | [variant]() |
+| 63. | levenshtein | оптимизировано посчитать расстояние Левенштейна |  | [variant]() |
+| 64. | longest common subsequence | наибольшая общая подпоследовательность |  | [variant]() |
+| 65. | longest common substring | наибольшая общая подстрока |  | [variant]() |
+| 66. | house robber | грабитель! нельзя грабить соседние дома | [leetcode](https://leetcode.com/problems/house-robber/description/) | [variant]() |
+| 67. | iter fibonacci | числа Фибоначчи итеративно |  | [variant]() |
