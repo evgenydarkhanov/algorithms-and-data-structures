@@ -70,8 +70,8 @@ solutions to various algorithmic tasks and problems using Python
 | 65. | longest common substring | наибольшая общая подстрока |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/aeb854b89c72af33b7a4d1224e2305fd2f860a56/tasks/65_longest_common_substring.py) |
 | 66. | house robber | грабитель! нельзя грабить соседние дома | [leetcode](https://leetcode.com/problems/house-robber/description/) | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/aeb854b89c72af33b7a4d1224e2305fd2f860a56/tasks/66_house_robber.py) |
 | 67. | iter fibonacci | числа Фибоначчи итеративно |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/aeb854b89c72af33b7a4d1224e2305fd2f860a56/tasks/67_iter_fibonacci.py) |
-| 68. | ladder | найти количество возможных путей до верха лестницы |  | []() |
-| 69. | jumps | возможно ли допрыгать до конца массива? |  | []() |
-| 70. | more than half | найти число, количество появлений которого занимает больше половины массива |  | []() |
-| 71. | water area | найти наибольшую площадь воды между столбами |  | []() |
-| 72. | product array | вернуть массив чисел, из произведений всех кроме данного |  | []() |
+| 68. | ladder | найти количество возможных путей до верха лестницы |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/68_ladder.py) |
+| 69. | jumps | возможно ли допрыгать до конца массива? |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/69_jumps.py) |
+| 70. | more than half | найти число, количество появлений которого занимает больше половины массива |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/70_more_than_half.py) |
+| 71. | water area | найти наибольшую площадь воды между столбами |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/71_water_area.py) |
+| 72. | product array | вернуть массив чисел, из произведений всех кроме данного |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/d7dd5d4e634320eb45d4d33894d853a4a19ddffa/tasks/72_product_array.py) |
