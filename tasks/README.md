@@ -1,6 +1,8 @@
 ## Tasks, Problems and Solutions
 solutions to various algorithmic tasks and problems using Python
 
+something may be incomplete or incorrect
+
 |    | title | description | source | solution |
 | :- | :---- | :---------- | :----- | :------- |
 | 01. | linear search | линейный поиск |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/68fb1f0739ab9534dadfe3fc378f883b94428930/tasks/01_linear_search.py) |
@@ -85,3 +87,8 @@ solutions to various algorithmic tasks and problems using Python
 | 80. | longest palindrome substring | найти наибольшую подстроку палиндром | [leetcode](https://leetcode.com/problems/longest-palindromic-substring/description/) | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/a5cbafe3e4ec727e5b753cbd65f68fd15039e4d6/tasks/80_longest_palindrome_substring.py) |
 | 81. | naive palindrome number | является ли число палиндромом | [leetcode](https://leetcode.com/problems/palindrome-number/description/) | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/a5cbafe3e4ec727e5b753cbd65f68fd15039e4d6/tasks/81_naive_palindrome_number.py) |
 | 82. | palindrome number | не тратим дополнительную память | [leetcode](https://leetcode.com/problems/palindrome-number/description/) | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/a5cbafe3e4ec727e5b753cbd65f68fd15039e4d6/tasks/82_palindrome_number.py) |
+| 83. | coins exchange | решено жадно, динамически может быть оптимальнее | [homework](https://github.com/mailcourses/hse_algorithms_and_data_structures_spring_2024/blob/main/lesson-14/homework.md) | [variant]() |
+| 84. | merge sort library | book == (ISBN, title, year). сортировать книги по году. год совпадает --> по названию |  | [variant]() |
+| 85. | odd forward | не отсортированный массив целых чисел, перенести в начало четные числа устойчиво |  | []() |
+| 86. | last odd stack | массив не отсортированных целых чисел, вернуть первое с конца четное. использовать принцип стека |  | []() |
+| 87. | brackets check | проверка валидности скобок |  | [variant]() |
