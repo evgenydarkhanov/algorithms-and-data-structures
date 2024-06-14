@@ -79,3 +79,9 @@ solutions to various algorithmic tasks and problems using Python
 | 74. | bst to sll | вернуть односвязный список из бинарного дерева поиска |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/b5d2420ec817efba16c42e7690cbc793dd24e004/tasks/74_bst_to_sll.py) |
 | 75. | naive roman to arabic | конвертировать римское число в арабское |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/b5d2420ec817efba16c42e7690cbc793dd24e004/tasks/75_naive_roman_to_arabic.py) |
 | 76. | roman to arabic | less naive |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/b5d2420ec817efba16c42e7690cbc793dd24e004/tasks/76_roman_to_arabic.py) |
+| 77. | longest unique substring | найти длину наибольшей подстроки, содержащей уникальные символы |  | [variant]() |
+| 78. | strict order | найти длину наибольшего подмассива чисел, который строго возрастает или строго убывает |  | [variant]() |
+| 79. | merge linked lists | объединить в порядке возрастания отсортированные связные списки |  | [variant]() |
+| 80. | longest palindrome substring | найти наибольшую подстроку палиндром | [leetcode](https://leetcode.com/problems/longest-palindromic-substring/description/) | [variant]() |
+| 81. | naive palindrome number | является ли число палиндромом | [leetcode](https://leetcode.com/problems/palindrome-number/description/) | [variant]() |
+| 82. | palindrome number | не тратим дополнительную память | [leetcode](https://leetcode.com/problems/palindrome-number/description/) | [variant]() |

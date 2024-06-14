@@ -22,12 +22,12 @@ def counting_sort_radix_sort(arr: list, digit, BASE) -> list:
 
 def radix_sort(arr: list) -> list:
 	k = max(arr)
-	i = 1
+	digit = 1
 	BASE = 10
 	
-	while i/k < 1:
-		arr = counting_sort_radix_sort(arr, i, BASE)
-		i *= 10
+	while digit/k < 1:
+		arr = counting_sort_radix_sort(arr, digit, BASE)
+		digit *= 10
 	
 	return arr
 	
