@@ -93,7 +93,7 @@ something may be incomplete or incorrect
 | 86. | last odd stack | массив не отсортированных целых чисел, вернуть первое с конца четное. использовать принцип стека |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/e175a8de54d7fcf889a4470194fe0ac481a56a54/tasks/86_last_odd_stack.py) |
 | 87. | brackets check | проверка валидности скобок |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/e175a8de54d7fcf889a4470194fe0ac481a56a54/tasks/87_brackets_check.py) |
 | 88. | drop near duplicates | удалить из строки все рядом стоящие повторяющиеся буквы |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/e175a8de54d7fcf889a4470194fe0ac481a56a54/tasks/88_drop_near_duplicates.py) |
-| 89. | rotate matrix right | повернуть матрицу на 90 градусов вправо |  | [variant]() |
-| 90. | rotate matrix left | повернуть матрицу на 90 градусов влево|  | [variant]() |
-| 91. | snail matrix | обойти матрицу улиткой |  | [variant]() |
-| 92. | square array | дан неубывающий массив целых чисел, вернуть неубывающий массив квадратов чисел |  | [variant]() |
+| 89. | rotate matrix right | повернуть матрицу на 90 градусов вправо |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/bf9b68c664e7a6b3d3ff4b40d4c11c528e7afbba/tasks/89_rotate_matrix_right.py) |
+| 90. | rotate matrix left | повернуть матрицу на 90 градусов влево|  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/bf9b68c664e7a6b3d3ff4b40d4c11c528e7afbba/tasks/90_rotate_matrix_left.py) |
+| 91. | snail matrix | обойти матрицу улиткой |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/bf9b68c664e7a6b3d3ff4b40d4c11c528e7afbba/tasks/91_snail_matrix.py) |
+| 92. | square array | дан неубывающий массив целых чисел, вернуть неубывающий массив квадратов чисел |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/bf9b68c664e7a6b3d3ff4b40d4c11c528e7afbba/tasks/92_square_array.py) |
