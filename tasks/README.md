@@ -97,7 +97,7 @@ something may be incomplete or incorrect
 | 090. | rotate matrix left | повернуть матрицу на 90 градусов влево|  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/bf9b68c664e7a6b3d3ff4b40d4c11c528e7afbba/tasks/90_rotate_matrix_left.py) |
 | 091. | snail matrix | обойти матрицу улиткой |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/bf9b68c664e7a6b3d3ff4b40d4c11c528e7afbba/tasks/91_snail_matrix.py) |
 | 092. | square array | дан неубывающий массив целых чисел, вернуть неубывающий массив квадратов чисел |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/bf9b68c664e7a6b3d3ff4b40d4c11c528e7afbba/tasks/92_square_array.py) |
-| 093. | is anagram | используя хеш таблицу, определить, является ли строка b анаграммой к строке a |  | [variant]() |
-| 094. | tree minimax | дано BST в виде массива, найти произведение минимального и максимального значений |  | [variant]() |
-| 095. | sum between i j | дан массив чисел, найти сумму всех элементов между индексами i и j за O(1) |  | [variant]() |
-| 096. | max prod subsequence |  |  | [variant]() |
+| 093. | is anagram | используя хеш таблицу, определить, является ли строка b анаграммой к строке a |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/df284d1397e834a3755e3054a5bd2f638c98e7ab/tasks/093_is_anagram.py) |
+| 094. | tree minimax | дано BST в виде массива, найти произведение минимального и максимального значений |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/df284d1397e834a3755e3054a5bd2f638c98e7ab/tasks/094_tree_minimax.py) |
+| 095. | sum between i j | дан массив чисел, найти сумму всех элементов между индексами i и j за O(1) |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/df284d1397e834a3755e3054a5bd2f638c98e7ab/tasks/095_sum_between_i_j.py) |
+| 096. | max prod subsequence | дана последовательность целых чисел и число K, найти максимальное произведение подпоследовательности размером K |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/df284d1397e834a3755e3054a5bd2f638c98e7ab/tasks/096_max_prod_subsequence.py) |
