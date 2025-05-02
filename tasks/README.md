@@ -101,3 +101,4 @@ something may be incomplete or incorrect
 | 094. | tree minimax | дано BST в виде массива, найти произведение минимального и максимального значений |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/df284d1397e834a3755e3054a5bd2f638c98e7ab/tasks/094_tree_minimax.py) |
 | 095. | sum between i j | дан массив чисел, найти сумму всех элементов между индексами i и j за O(1) |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/df284d1397e834a3755e3054a5bd2f638c98e7ab/tasks/095_sum_between_i_j.py) |
 | 096. | max prod subsequence | дана последовательность целых чисел и число K, найти максимальное произведение подпоследовательности размером K |  | [variant](https://github.com/evgenydarkhanov/algorithms-and-data-structures/blob/df284d1397e834a3755e3054a5bd2f638c98e7ab/tasks/096_max_prod_subsequence.py) |
+| 097. | three friends | найти в графе цикл из трёх вершин (ищет любой цикл) |  | [variant]() |

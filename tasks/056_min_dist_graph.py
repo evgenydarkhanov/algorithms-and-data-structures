@@ -25,10 +25,10 @@ def min_dist(n, edges, x, y) -> Optional[int]:
 	
 	# vertex, distance
 	queue = deque([x, 0])
-	graph = defaultdict[list]
+	graph = defaultdict(list)
 	
 	# adding vertices and edges to graph
-	for egde in edges:
+	for edge in edges:
 		graph[edge[0]].append(edge[1])
 	
 	visited = [False] * (n + 1)
